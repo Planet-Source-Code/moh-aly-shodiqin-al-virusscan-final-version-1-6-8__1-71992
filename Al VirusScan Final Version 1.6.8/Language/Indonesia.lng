@@ -1,0 +1,173 @@
+Lang	: Indonesia;
+Author	:   Michael	Trunman;
+
+
+#--------------------------
+
+l_ok: Oke;
+l_cancel: Batal;
+l_exit: Keluar;
+l_close: Tutup;
+l_help: Pertolongan;
+l_scan : Periksa;
+l_scan2: Pemeriksaan;
+l_options: Pilihan;
+l_settings: Setelan;
+l_settings2: Setelan && pengaturan;
+l_update: Update;
+l_update2: Pembaharuan;
+l_control: Kendali;
+l_scan_desc:
+	Periksa tempat-tempat tertentu\n
+	dari kemungkinan adanya ancaman;
+l_refresh: Segarkan;
+l_selectobjects: Pilih objek/lokasi :;
+l_computer: Komputer;
+l_hardisk: Hardisk;
+l_othermedia: Media lainnya;
+l_localdisk: Hardisk lokal;
+l_cdrom: CD-Rom;
+l_removablemedia: Media lepas;
+l_windowsdirectory: Direktori windows;
+l_systemdirectory: Direktori sistem;
+l_otherobjectlocation: Objek/lokasi lainnya;
+l_sotherobjectlocation: Cari objek/lokasi lainnya;
+l_dbclktspb: Klik ganda untuk menjalankan plugin di bawah ini :;
+l_tsps: Klik tombol "%s" untuk memulai proses scanning;
+l_pause: Pause;
+l_resume: Teruskan;
+l_stop: Hentikan;
+l_inscnpw: Sedang dalam pemeriksaan, mohon ditunggu...;
+l_clean: Bersihkan;
+l_delete: Hapus;
+l_quarantine: Karantina;
+l_currfile: Berkas :;
+l_threatname: Nama ancaman;
+l_objloct: Lokasi ancaman;
+l_information: Informasi;
+l_back: Kembali;
+l_nwdrv: Network drive;
+l_netshar: Bagi pakai jaringan;
+l_enumnetres: Sedang membaca jaringan...;
+l_cof: Gagal membuka berkas;
+l_copen: Gagal membuka;
+l_procaborted: Proses dibatalkan;
+l_language: Bahasa;
+l_author: Pembuat;
+l_file: Berkas;
+l_config: Konfigurasi;
+l_scannopt: Pilihan scan;
+l_archivescan: Pemeriksaan arsip;
+l_info01: Informasi tentang bagian ini bisa anda temukan di www.ansav.com;
+l_type: Tipe;
+l_anstat01: Info status :;
+l_apply: Terapkan;
+
+l_kps01: Aktifkan mode heuristic ( memperlambat scanning ).;
+l_kps02: Curigai setiap packer yang tidak standar ( dapat menyebabkan salah deteksi ).;
+l_kps03: Periksa juga file multimedia.;
+l_kps04: Periksa juga file terkompres.;
+l_kps05: Buat log untuk setiap sesi scanning.;
+l_kps06: Nonaktifkan sistem buffering.;
+l_kps07: Batasi besar arsip.;
+
+l_kps08: Jangan periksa file arsip yg memiliki ukuran lebih besar dari :;
+l_kps09: Tipe arsip yang didukung :;
+l_kps10: Pilih semua;
+l_kps11: Lepas semua;
+
+l_kps12: Bahasa yang sedang dipakai :;
+l_kps13: Bahasa yang bisa digunakan :;
+
+l_kps14: Menggunakan mode verbose ketika proses pemeriksaan.;
+l_kps15: Dapatkan bahasa lainnya;
+l_kps16: Untuk menggunakan plugin luar\n
+		 klik tombol "%s".;
+
+l_external: Luar;
+l_tpl: Tersedia %d plugin.;
+
+l_operation: Operasi;
+l_result: Hasil;
+l_thf: Ditemukan %d berkas;
+l_scanned: Diperiksa;
+l_sstat: Status pemeriksaan;
+l_scobject: Obyek yang diperiksa;
+l_aborted: Dibatalkan;
+l_completed: Selesai;
+l_nothing: Tidak ada;
+l_nscanned: Tak diperiksa;
+l_detected: Terdeteksi;
+l_suspected: Dicurigai;
+l_unknown: Tidak diketahui;
+l_thdtc: Bahaya ditemukan!;
+l_ssg: Aman;
+l_scmem: Memeriksa proses pada memori, silahkan tunggu...;
+l_skip: Lewati;
+
+l_activate: Aktifkan;
+l_stopit: Hentikan;
+l_showdtl: Lihat detail;
+l_search: Cari;
+l_smvsmpl: Kirim contoh virus;
+l_about: Tentang;
+l_view: Tampil;
+l_eventlog: Catatan kejadian;
+l_clearevlog: Bersihkan catatan kejadian;
+l_restapp: Jalankan ulang %s;
+l_risk: Resiko;
+l_qsp: Pilih lokasi cepat :;
+l_ssf: Periksa satu file;
+l_active: AKTIF;
+l_nactive: TIDAK AKTIF;
+l_lastscanned: Objek terakhir diperiksa;
+l_clean2: BERSIH;
+l_sss: Hasil pemeriksaan satu file;
+l_ol: Lokasi object;
+l_tf2: VIRUS DITEMUKAN;
+l_sf: ANCAMAN DITEMUKAN;
+l_plugname: Nama plugin;
+l_plugdesc: Keterangan;
+l_kps17: Objek tidak dapat dibersihkan;
+l_kps18: Tidak dapat menghapus file ini.\n%s;
+l_kps19: Tidak dapat mengarantina file ini.\n%s;
+l_kps20: Ancaman/virus terdeteksi aktif di memori;
+l_kps21: Total proses yang diperiksa %d;
+l_kps22:  ancaman terdeteksi aktif di memori;
+l_kps23: %d proses telah dimatikan;
+l_kps24: %d proses gagal dimatikan;
+l_kps25: Total telah diperiksa : %s direktori dan %s berkas;
+l_kps26: Tampilkan jendela laporan ketika selesai pemeriksaan;
+l_kps27: Periksa proses yang aktif ketika jalan pertama;
+l_kps28: aaa;
+l_kps29: Versi %s yang terpasang lebih tua (%s) dari versi ini, 
+		 apakah anda ingin melakukan pembaharuan (upgrade) %s ke %s ?;
+l_kps30: Tidak dapat mengkarantina file ini.;
+l_kps31: Tidak dapat menghapus file ini.;
+l_kps32: Total %d proses diperiksa;
+l_kps33: %d proses dihentikan;
+l_kps34: %d proses gagal dihentikan;
+l_kps35: Proses dihentikan;
+l_kps36: Tidak dapat dihentikan (masih aktif di memori);
+l_kps37: Dibatalkan, membersihkan memory;
+l_kps38: Status : Dihentikan sementara;
+l_kps39: Silahkan pilih obyek yang akan diperiksa;
+l_kps40: Laporan pemeriksaan;
+l_kps41: LAPORAN PEMERIKSAAN;
+l_kps42: Memeriksa memori...;
+l_kps43: Memeriksa;
+l_kps44: dihentikan;
+l_kps45: selesai;
+l_kps46: Memeriksa;
+l_kps47: Status : nganggur;
+l_kps48: Tunggu sebentar;
+l_kps49: Klik tombol "%s" untuk memulai;
+l_kps50: Sumber update;
+l_kps51: Pilih sumber update. Update secara online membutuhkan koneksi internet
+		atau server update pada workstation;
+l_kps52: Konfigurasi baru saja dirubah, simpan perubahannya?;
+l_kps53: %s menemukan update terbaru pada update server.\n
+		segeralah perbaharui %s anda ke definisi terbaru sesegera mungkin.\n
+		Apakah anda ingin memperbaharui sekarang juga?;
+
+

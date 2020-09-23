@@ -1,0 +1,227 @@
+'---------vnAntivirus 0.5 (alpha)-------
+'---------Project code name : LovePN----
+'---------Send to My Love---------------
+
+[frmMain]
+frmMain=Main
+cmdPro=Process
+cmdSta=Startup
+cmdScan=Scan with sample
+cmdOpt=Option
+cmdAu=Author
+cmdHide=Hide
+cmdUp=Data worm
+cmdScanSys=Scan system
+
+[frmDat]
+frmIcon=Dectect with icon
+cmdBack=Back
+cmdAdd=Add
+
+LVI(1)=Name
+
+[frmAdd]
+lblPath=Path
+lblName=Name
+frmSet=Setting
+optIcon=Scan with icon
+lblIcon=This option help you dectect worm with icon
+optFile=Scan sample file
+lblFile=Dectect worm with method compare 2 file
+cmdCancel=Cancel
+cmdUp=Update
+cmdBro=...
+
+[frmOpt]
+frmAutoScan=Auto scan
+chkUSB=Scan on drive USB
+chkScanI=Scan icon
+chkFolder=Scan when open folder
+chkAutoIT=Scan file write AutoIT
+chkSam=Scan with sample
+chkDec=Dectect add file in system
+cmdBrowFolder=...
+
+frmLang=Language
+optEng=EngLish
+optVie=Tie61ng vie65t
+
+frmSta=Startup
+chkStartup=Run when windows start
+chkShow=Show program
+chkSystemTray=Show in system tray
+
+cmdOk=Ok
+cmdCancel=Cancel
+
+[frmMnu]
+mnua1=Process
+mnua2=Starup
+mnuaSpa=-
+mnua3=Show
+mnua4=Author
+mnuaSpa1=-
+mnuaExit=Exit
+
+mnub1=Create key
+mnub2=Delete key
+mnubSpa=-
+mnub3=Scan system
+
+mnuc1=Kill process
+mnuc2=New app
+mnucSpa=-
+mnuc3=Scan system
+
+mnud1=Delele
+mnue1=Delele
+
+[frmAbout]
+lblName=vnAntivirus
+lblAuthor=Author : Dung Le Nguyen
+lblEmail=Email : dungcoivb@gmail.com
+lblSend=.............................
+lblOS=vnAntivirus is a soft open source
+lblSup=Support online (Nick yahoo) : dungcoivb
+lblSam=You can send sample virus to : dungcoivb@gmail.com (With Pass is : injected in format .rar :) )
+lblVer=Update: 3/19/2008
+
+cmdBack=Back
+
+[frmAddKey]
+lblType=Type :
+lblName=Name :
+lblPath=Path :
+cmdOk=Ok
+cmdCancel=Cancel
+cmdBro=...
+
+[frmDetect]
+frmDetect=File detected
+cmdKill=Kill
+cmdBack=Back
+
+LV(1)=Obiect
+LV(2)=Detect
+LV(3)=Path
+LV(4)=Process
+
+[frmMas]
+cmdCancel=Cancel
+cmdScan=Ok
+
+[frmNewApp]
+lblOpen=Open
+cmdCancel=Cancel
+cmdOk=Ok
+cmdBro=...
+
+[frmPht]
+lblPath=Path file
+lblFolder=Folder
+lblWait=Please wait...
+
+frmPro=Process
+frmPath=File in system
+frmRes=Startup
+
+cmdScan=Scan
+cmdKill=Kill
+cmdBro=...
+cmdBrowFolder=...
+cmdBack=Back
+
+LV(1)=Name
+LV(2)=Path
+LV(3)=Size
+
+LV1(1)=Name
+LV1(2)=Path
+LV1(3)=ID
+
+LV2(1)=Key name
+LV2(2)=Value
+LV2(3)=Key path
+
+[frmPro]
+cmdRe=Refresh
+cmdBack=Back
+cmdScan=Scan process
+
+LV(1)=Name process
+LV(2)=Path
+LV(3)=ID
+
+[frmScan]
+cmdScan=Scan
+cmdCancel=Cancel
+
+lblPathScan=Folder scan :
+lblNP=Scaning :
+lblDaQuet=Scaned:
+lblPhH=Detect :
+lblPH=0 file
+lblDQ=0 file
+
+chkIndex=Make a index
+chkCWI=Scan with index
+
+[frmSta]
+cmdRe=Refresh
+cmdBack=Back
+cmdRepair=Repair key
+cmdScan=Scan starup
+
+LV(1)=Key name
+LV(2)=Value
+LV(3)=Key path
+
+[Other]
+Sta=Startup
+Lan=Language
+Aut=Auto scan
+
+[Message]
+MesScanF=Scan
+MesScanT=Stop
+MesStopScan=Stoped scan
+
+MesComScan=Scan complete
+MesComScanMe=Scan complete in memory
+MesComScanSt=Scan complete in startup
+MesComLst=Complete list MD5 code
+MesStoScan=Stoped scan
+MesSe=You not select a folder
+MesNS=Not exist file configuration
+MesFL=Not exist files language
+MesSUSB=Complete scan USB disk
+MesRCR=Complete repair keys
+MesKDR=Not enough key on regedit to Windows starup
+MesComAdd=Complete add key starup
+
+MesComUI=Complete update icon 
+MesComUD=Complete update sign :
+MesIAs=This icon as Icon :
+MesTDL=This data haved in data :
+MesNN=Data null
+
+MesDectectAutorun=Have file autorun : 
+MesAutoBe=File will run : 
+MesCantDelKey=You can delete this key
+
+MesNF=Not found file
+MesLPro=Complete seach in process
+MesLFile=Complete seach file
+MesLRegedit=Complete seach in registry
+
+MesKPro=Complete kill process
+MesKFile=Complete kill files
+MesKRegedit=Complete kill keys in registry
+
+MesKDec=Complete kill file detected
+
+DecVirus=Worm
+DecFile=File
+DecVir=Virus
+
+No=No
